@@ -10,30 +10,29 @@
 <br>
 
 <!-- Sección Acerca de Mí -->
-##**About Me**
+## 📌 About Me
 
-<picture>
-  <img align="right" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250px">
-</picture>
+<div align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250px" alt="Coding gif">
+</div>
+
+- 🎓 Estudiante de Ingeniería en Ciencias de la Computación.
+- 💻 Apasionado por la tecnología y el desarrollo de software.
+- 📚 Siempre en busca de aprender nuevas herramientas y tecnologías.
+- 🔧 Actualmente estoy aprendiendo más sobre backend, bases de datos y despliegue de proyectos.
+- 🤝 Me encanta colaborar en proyectos open-source y trabajar en equipo.
+- 🚀 Mi objetivo es crear soluciones que impacten positivamente a las personas y empresas.
 
 <br>
 
-- Estudiante de Ingeniería en Ciencias de la Computación.
-- Apasionado por la tecnología y el desarrollo de software.
-- Siempre en busca de aprender nuevas herramientas y tecnologías.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
 
 <!-- Sección de Skills / Tecnologías que conozco -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+<h2 align="center">🧠 Technologies That I Know 👨🏻‍💻</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
