@@ -10,7 +10,7 @@
 <br>
 
 <!-- Sección Acerca de Mí -->
-## <picture><img src="https://github.com/tandpfun/skill-icons/raw/main/assets/logo.svg" width="50px"></picture> **About Me**
+##**About Me**
 
 <picture>
   <img align="right" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250px">
@@ -37,6 +37,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,javascript,nodejs,fastapi,python,react,vue,typescript,postgres,mysql,java,html,css,sass,bootstrap,vite,r,nestjs,linux,arch,,debian,cpp,discord,nextjs,idea,obsidian,postman,npm,qt,vscode,usaa" />
+    <img src="https://skillicons.dev/icons?i=mongodb,javascript,nodejs,fastapi,python,react,vue,typescript,postgres,mysql,java,html,css,sass,bootstrap,vite,r,nestjs,linux,arch,debian,cpp,discord,nextjs,idea,obsidian,postman,npm,qt,vscode,usaa" />
   </a>
 </p>
