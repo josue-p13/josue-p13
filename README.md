@@ -36,6 +36,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,javascript,nodejs,fastapi,python,react,vue,typescript,postgres,mysql,java,html,css,sass,bootstrap,vite,r,nestjs,linux,arch,debian,cpp,discord,nextjs,idea,obsidian,postman,npm,qt,vscode,usaa" />
+    <img src="https://skillicons.dev/icons?i=mongodb,javascript,nodejs,fastapi,python,react,vue,typescript,postgres,mysql,java,html,css,sass,vite,r,linux,arch,debian,cpp,discord,idea,obsidian,postman,npm,qt,vscode,usaa" />
   </a>
 </p>
